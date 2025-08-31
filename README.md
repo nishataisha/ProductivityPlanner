@@ -1,2 +1,0 @@
-# ProductivityPlanner
-Created with CodeSandbox
